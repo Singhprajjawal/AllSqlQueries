@@ -1,2 +1,2 @@
 # SqlQueries
-Performed all basic to advance sql queries
+Performed all basic to advance sql queries and Window functions
